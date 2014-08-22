@@ -13,4 +13,8 @@ sbit dscs=P1^4;
 sbit dsas=P1^5;
 sbit dsrw=P1^6;
 sbit dsds=P1^7;
+sbit s1=P2^0;
+sbit s2=P2^1;
+sbit s3=P2^2;
+sbit beep=P2^3;
 #endif
