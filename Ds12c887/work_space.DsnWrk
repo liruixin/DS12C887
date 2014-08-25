@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB_Project.PrjPCB
+[Project2]
+ProjectPath=C:\Users\Singer\Desktop\integrated-library\ZYF_Common\ZYF_Common.LibPkg
+[Project3]
+ProjectPath=C:\Users\Singer\Desktop\integrated-library\ZYF_Connector\ZYF_Connector.LibPkg
+[Project4]
+ProjectPath=C:\Users\Singer\Desktop\integrated-library\ZYF_IC\ZYF_IC.LibPkg
